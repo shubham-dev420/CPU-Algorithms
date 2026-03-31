@@ -5,5 +5,10 @@
 - Shortest Job First (SJF)
 
 ## 📁 Project Structure
-
-
+CPU-Algorithms/
+├── src/
+│ ├── fcfs.cpp
+│ ├── sjf.cpp
+│ ├── round_robin.cpp
+│ └── priority.cpp
+├── README.md
