@@ -1,5 +1,7 @@
 # CPU Scheduling Algorithms (C++)
+
 ## 📁 Project Structure
+
 CPU-Algorithms/
 ├── src/
 │ ├── fcfs.cpp
